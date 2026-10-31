@@ -1,0 +1,1 @@
+# patversmes-parvaldibas-platforma
