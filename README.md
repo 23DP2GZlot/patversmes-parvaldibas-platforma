@@ -28,4 +28,4 @@ Platforma apvieno patversmes ikdienas darba procesus vienā sistēmā: brīvprā
 - Visual Studio Code, Laragon, Composer, Git
 ## Stāvoklis
 
-Projekts atrodas sākuma stadijā: ir izstrādāta projekta koncepcija, programmas kods tiks pievienots prakses laikā.
+Izveidots Laravel projekta pamats, pieslēgta MySQL datu bāze. Sistēmas funkcijas tiks izstrādātas prakses laikā.
